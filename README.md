@@ -7,7 +7,7 @@ A webpage pode ser acessada por esse link https://marceloydm.github.io/proj-squa
 <h3> Como clonar o projeto:</h3>
 <h4> Você pode clonar o projeto e rodá-lo localmente seguindo os passos a seguir</h4>
 <ol>
-<li> Comece com o git clone no link https://github.com/XandyNinfadora/M3-Cinema para a clonagem do mesmo </li>
+<li> Comece com o git clone no link https://github.com/XandyNinfadora/proj-squad para a clonagem do mesmo </li>
 <li> abra o arquivo index.html na raiz da pasta </li>
 </ol>
 
