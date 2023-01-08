@@ -8,7 +8,7 @@ A webpage pode ser acessada por esse link https://marceloydm.github.io/proj-squa
 <h4> Você pode clonar o projeto e rodá-lo localmente seguindo os passos a seguir</h4>
 <ol>
 <li> Comece com o git clone no link https://github.com/XandyNinfadora/proj-squad para a clonagem do mesmo </li>
-<li> abra o arquivo index.html na raiz da pasta </li>
+<li> Abra o arquivo index.html na raiz da pasta </li>
 </ol>
 
 <hr>
