@@ -1,7 +1,7 @@
 # Segundo projeto em grupo - Lanchonete da Nenê
 Nosso time planejou e executou esse site para nossa cliente, Dª Maria Eduarda, também conhecida como Nenê. Seu objetivo era criar um site onde pudesse expôr sua história e seus ítens e planejamos do início ao final executar sua visão nesse projeto. Tendo como público alvo o jovem e os mais velhos com uma página minimalista, intuitiva e prática, podendo ser executada pelo mobile ou desktop. 
 
-A webpage pode ser acessada por esse link https://marceloydm.github.io/proj-squad/index.html.
+A webpage pode ser acessada por esse link: https://github.com/XandyNinfadora/proj-squad.
 
 <hr>
 <h3> Como clonar o projeto:</h3>
